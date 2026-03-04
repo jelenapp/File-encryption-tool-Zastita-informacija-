@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\zastitaInfoProjekat\obj\Debug\zastitaInfoProjekat.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\zastitaInfoProjekat\obj\Debug\zastitaInfoProjekat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\zastitaInfoProjekat\bin\Debug\zastitaInfoProjekat.exe.config
+C:\Users\User\source\repos\zastitaInfoProjekat\bin\Debug\zastitaInfoProjekat.exe
+C:\Users\User\source\repos\zastitaInfoProjekat\bin\Debug\zastitaInfoProjekat.pdb
+C:\Users\User\source\repos\zastitaInfoProjekat\obj\Debug\zastitaInfoProjekat.exe
+C:\Users\User\source\repos\zastitaInfoProjekat\obj\Debug\zastitaInfoProjekat.pdb

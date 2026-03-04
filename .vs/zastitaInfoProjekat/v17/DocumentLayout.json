@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|c:\\users\\user\\source\\repos\\zastitainfoprojekat\\aescbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|solutionrelative:aescbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\xxtea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|solutionrelative:xxtea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\railfencecipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|solutionrelative:railfencecipher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|solutionrelative:tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|solutionrelative:userinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\tigerhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F752551-76BC-45C5-9209-D225506027F6}|zastitaInfoProjekat.csproj|solutionrelative:tigerhash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AESCBC.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\AESCBC.cs",
+              "RelativeDocumentMoniker": "AESCBC.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\AESCBC.cs",
+              "RelativeToolTip": "AESCBC.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:43:59.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XXTEA.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\XXTEA.cs",
+              "RelativeDocumentMoniker": "XXTEA.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\XXTEA.cs",
+              "RelativeToolTip": "XXTEA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:42:56.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RailfenceCipher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\RailfenceCipher.cs",
+              "RelativeDocumentMoniker": "RailfenceCipher.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\RailfenceCipher.cs",
+              "RelativeToolTip": "RailfenceCipher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T06:42:46.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TigerHash.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\TigerHash.cs",
+              "RelativeDocumentMoniker": "TigerHash.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\TigerHash.cs",
+              "RelativeToolTip": "TigerHash.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:58:22.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserInterface.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\UserInterface.cs",
+              "RelativeDocumentMoniker": "UserInterface.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\UserInterface.cs",
+              "RelativeToolTip": "UserInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:16:38.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TCP.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\TCP.cs",
+              "RelativeDocumentMoniker": "TCP.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\zastitaInfoProjekat\\TCP.cs",
+              "RelativeToolTip": "TCP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T18:52:36.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
